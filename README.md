@@ -1,6 +1,6 @@
 # TALLER 3: MICROFRAMEWORKS WEB
 Jose Alejandro Correa Rodrigez
-## Descripción de la aplicación 📖
+## Descripción de la aplicación 
 
 En este taller usted debe explorar la arquitectura del microframework WEB denominado sparkweb [sparkjava](https://sparkjava.com/).Este micro framework permite construir aplicaciones web de manera simple usando funciones lambda.
 
@@ -25,7 +25,7 @@ cd AREP-LAB-03/
 
 ```
 
-## Ejecutando la aplicación ⚙️
+## Ejecutando la aplicación 
 
 Para ejecutar la aplicación, ejecute el siguiente comando:
 
@@ -38,7 +38,7 @@ mvn clean compile exec:java '-Dexec.mainClass=edu.eci.arep.App'
 
 
 
-## Ejecutando las pruebas ⚙️
+## Ejecutando las pruebas 
 
 Para ejecutar las pruebas, ejecute el siguiente comando:
 
