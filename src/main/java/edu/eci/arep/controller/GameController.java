@@ -12,8 +12,8 @@ import edu.eci.arep.service.GameStoreService;
 public class GameController {
 
 
-    @RequestMapping(path = "/smoothies", method = HttpMethod.GET)
-    public static JsonObject getSmoothies(String calledServiceURI) {
+    @RequestMapping(path = "/controls", method = HttpMethod.GET)
+    public static JsonObject getControls(String calledServiceURI) {
         return GameStoreService.getInstance().getControls();
     }
 }
