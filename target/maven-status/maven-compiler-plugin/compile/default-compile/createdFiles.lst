@@ -1,7 +1,14 @@
 edu\eci\arep\HttpServer.class
 edu\eci\arep\service\GameStoreService.class
 edu\eci\arep\utils\Cache.class
+edu\eci\arep\annotation\RequestMapping.class
 edu\eci\arep\service\AppService.class
 edu\eci\arep\service\HttpMovieConnection.class
+edu\eci\arep\Spring.class
+edu\eci\arep\annotation\ComponentScan.class
+edu\eci\arep\annotation\Component.class
 edu\eci\arep\Spark.class
 edu\eci\arep\App.class
+edu\eci\arep\annotation\ComponentLoader.class
+edu\eci\arep\controller\GameController.class
+edu\eci\arep\annotation\HttpMethod.class
